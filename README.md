@@ -1,5 +1,5 @@
 
-# Lirary Management System
+# Library Management System
 
 Library management system which is entirely programmed in C and uses the concepts of socket programming and multi-threading in order to simultaneously assign tasks to the processes.
 
