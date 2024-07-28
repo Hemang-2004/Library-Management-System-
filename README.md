@@ -3,6 +3,7 @@
 
 Library management system which is entirely programmed in C and uses the concepts of socket programming and multi-threading in order to simultaneously assign tasks to the processes.
 
+
 ## Demo
 
 Make 2 simultaneous terminals 
